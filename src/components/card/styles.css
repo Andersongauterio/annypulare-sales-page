@@ -1,0 +1,12 @@
+.annypulare-card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+}
+
+.annypulare-card-img img {
+  width: 350px;
+  border-radius: 40px;
+}

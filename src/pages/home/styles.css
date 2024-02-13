@@ -1,0 +1,11 @@
+.annypulare-home-container {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh
+}
+
+.annypulare-home-container > * {
+  width: 100%;
+}

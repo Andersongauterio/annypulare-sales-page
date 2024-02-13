@@ -2,7 +2,7 @@ import './styles.css';
 
 const Header = () => {
   return (
-    <div>
+    <div className='annypulare-header-container'>
       <h1>Header</h1>
     </div>
   );
