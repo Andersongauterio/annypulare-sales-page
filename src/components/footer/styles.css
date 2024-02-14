@@ -6,3 +6,14 @@
   align-items: center;
   justify-content: center;
 }
+
+.annypulare-footer-images {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.annypulare-footer-images img {
+  width: 50px;
+  margin-right: 35px;
+}

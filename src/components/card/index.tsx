@@ -6,7 +6,7 @@ const Card = () => {
   return (
     <div className='annypulare-card-container'>
       <div className='annypulare-card-img'>
-        <img src={cardImg} alt="logo" />
+        <img src={cardImg} alt="curso de velas aromáticas" />
       </div>
     </div>
   );

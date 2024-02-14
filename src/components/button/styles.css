@@ -5,3 +5,8 @@
   align-items: center;
   justify-content: center;
 }
+
+.annypulare-button-btn button{
+  background-color: rgb(233, 194, 39);
+  border: none;
+}
