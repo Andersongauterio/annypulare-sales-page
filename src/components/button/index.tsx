@@ -4,7 +4,9 @@ const Button = () => {
   return (
     <div className='annypulare-button-container'>
       <div className='annypulare-button-btn'>
-        <button className='btn btn-primary'>Quero fazer renda extra com Velas Aromáticas</button>
+        <a href="https://pay.kiwify.com.br/OZ5TFSI">
+          <button className='btn btn-secondary'>Clique aqui para lucrar Velas Aromáticas</button>
+        </a>
       </div>
     </div>
   );

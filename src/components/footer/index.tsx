@@ -8,10 +8,18 @@ const Footer = () => {
   return (
     <div className='annypulare-footer-container'>
       <div className='annypulare-footer-images'>
-        <img src={instagramImg} alt="Instagram" />
-        <img src={youtubeImg} alt="Youtube" />
-        <img src={whatsappImg} alt="WhatsApp" />
-        <img src={websiteImg} alt="Site Annypulare" />
+        <a href="https://www.instagram.com/annypulare">
+          <img src={instagramImg} alt="Instagram" />
+        </a>
+        <a href="https://www.youtube.com/@Annypulare">
+          <img src={youtubeImg} alt="Youtube" />
+        </a>
+        <a href="https://wa.me/5197559610">
+          <img src={whatsappImg} alt="WhatsApp" />
+        </a>
+        <a href="https://www.annypulare.com.br">
+          <img src={websiteImg} alt="Site Annypulare" />
+        </a>
       </div>
     </div>
   );
